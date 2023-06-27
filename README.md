@@ -26,12 +26,21 @@ Deberás ingresar a cualquier IDE en línea, yo te propongo el siguiente
 Abrir en un nueva ventana de tu navegador el siguiente link https://www.onlinegdb.com/online_c_compiler
 
 <p align="center">
-  <img height="200" src="../../img/01.PNG" />
+  <img height="200" src="../../blob/main/img/01.PNG" />
+  <img height="200" src="../../blob/main/img/02.PNG" />
 </p>
 
 
-Una vez que aceptes la invitacion al repo vas a poder clonar lo 
->Es importante que no hagas Fork, los cambios subidos a un repo fork no seran validos.
+
+## INSTALAR UN IDE DE DESARROLLO:
+
+### 2. Visual Studio Code
+Tienes que instalar el VS como entorno de desarrollo, este lo puedes descargar del siguiente link `https://code.visualstudio.com/download`
+abrelo en una nueva ventana https://code.visualstudio.com/download
+
+>Es importante que selecciones tu sistema operativo,para iniciar la descarga.
+
+
 
 Para clonar el repo te recomendamos crear una nueva carpeta,  (asegurate de no utilizar la misma que el prep curse). Una vez clonado entrá a esa carpeta y ejecutá los siguientes comandos:
 
