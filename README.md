@@ -107,15 +107,11 @@ si te aparece un mensaje como el de la imagen entonces ya está lista la instala
 ## RESOLVER EJERCICIOS
 
 Tu tarea es completar el código en los archivos  
- - `01.js` 
- - `02.js` 
- - `03.js` 
- - `04.js` 
- - `05.js` 
- - `06-07-08.js` 
- - `09.js` 
+ - `00.c` 
+ - `01.c` 
+ - `02.c` 
  
- De tal forma que pasen la mayoría de los tests.
+
 
 
 
