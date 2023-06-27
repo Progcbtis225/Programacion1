@@ -87,7 +87,17 @@ abrelo en una nueva ventana y espera la descarga https://sourceforge.net/project
     Seleccionamos la opción editar.
     Presionamos en Nuevo y agregamos la ruta que copiamos anteriomente.
 
+<p align="center">
+  <img height="400" src="../../blob/main/img/08.PNG" />
+  <img height="400" src="../../blob/main/img/09.PNG" />
+  <img height="400" src="../../blob/main/img/10.PNG" />
+  <img height="400" src="../../blob/main/img/11.PNG" />
+</p>
 
+Terminar el proceso aceptando las modificaciones en las ventanas abiertas.
+
+Abrimos una ventana de consola de comandos y escribimos el siguiente comando "gcc --version"
+si te aparece un mensaje como el de la imagen entonces ya está lista la instalación.
 
 
 Para clonar el repo te recomendamos crear una nueva carpeta,  (asegurate de no utilizar la misma que el prep curse). Una vez clonado entrá a esa carpeta y ejecutá los siguientes comandos:
