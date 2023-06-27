@@ -44,7 +44,7 @@ abrelo en una nueva ventana https://code.visualstudio.com/download
   <img height="400" src="../../blob/main/img/03.PNG" />
 </p>
 
-### 3. Visual Studio Code
+### 3. Extención C/C++
 Estando dentro de Visual Studio debes configurar la extención `C/C++ Extension Pack`
 solo debes buscarla y darle click en instalar
 
