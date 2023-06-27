@@ -58,15 +58,36 @@ Debes instalar el compilador de C que lo puedes descargar del siguiente link `ht
 
 abrelo en una nueva ventana y espera la descarga https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/mingw-builds/8.1.0/threads-posix/sjlj/x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0.7z/download
 
+<p align="center">
+  <img height="400" src="../../blob/main/img/05.PNG" />
+</p>
+
+
   Lleva el archivo descargado a la unidad "C:\" de tu computadora.
   Extrae la carpeta en este directorio.
   Entra en la siguiente ruta y copiala "C:\mingw64\bin"
-"
+
+<p align="center">
+  <img height="400" src="../../blob/main/img/06.PNG" />
+</p>
+
 
     Lleva el archivo descargado a la unidad "C:\" de tu computadora.
     Extrae la carpeta en este directorio.
     Entra en la siguiente ruta y copiala "C:\mingw64\bin"
     
+
+<p align="center">
+  <img height="400" src="../../blob/main/img/07.PNG" />
+</p>
+
+    En el menú de Windows buscamos la opción variables de entorno.
+    Seleccionamos la opción de Variables de entorno.
+    En las variables del sistema buscamos la variable Path
+    Seleccionamos la opción editar.
+    Presionamos en Nuevo y agregamos la ruta que copiamos anteriomente.
+
+
 
 
 Para clonar el repo te recomendamos crear una nueva carpeta,  (asegurate de no utilizar la misma que el prep curse). Una vez clonado entrá a esa carpeta y ejecutá los siguientes comandos:
