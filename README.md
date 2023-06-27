@@ -26,7 +26,7 @@ Deberás ingresar a cualquier IDE en línea, yo te propongo el siguiente
 Abrir en un nueva ventana de tu navegador el siguiente link https://www.onlinegdb.com/online_c_compiler
 
 <p align="center">
-  <img height="200" src="../../img/01.png" />
+  <img height="200" src="../../img/01.PNG" />
 </p>
 
 
