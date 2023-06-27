@@ -40,7 +40,13 @@ abrelo en una nueva ventana https://code.visualstudio.com/download
 
 >Es importante que selecciones tu sistema operativo,para iniciar la descarga.
 
+<p align="center">
+  <img height="400" src="../../blob/main/img/03.PNG" />
+</p>
 
+### 3. Visual Studio Code
+Estando dentro de Visual Studio debes configurar la extención `C/C++ Extension Pack`
+solo debes buscarla y darle click en instalar
 
 Para clonar el repo te recomendamos crear una nueva carpeta,  (asegurate de no utilizar la misma que el prep curse). Una vez clonado entrá a esa carpeta y ejecutá los siguientes comandos:
 
