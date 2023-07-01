@@ -15,11 +15,33 @@ Los condicionales Switch, son una estructura de control condicional, que permite
 ### Ejemplos de Condicional Switch
 
 #### Menú de Opciones
-    En el menú de Windows buscamos la opción variables de entorno.
-    Seleccionamos la opción de Variables de entorno.
-    En las variables del sistema buscamos la variable Path
-    Seleccionamos la opción editar.
-    Presionamos en Nuevo y agregamos la ruta que copiamos anteriomente.
+    cout << "Ingrese la Opción a ejecutar: ";
+    int opcion = 0;
+    cin >> opcion;
+    switch(opcion)
+    {
+        case 1: cout << "Usted ha seleccionado la opción 1";
+        break;
+        case 2: cout << "Usted ha seleccionado la opción 2";
+        break;
+        case 3: cout << "Usted ha seleccionado la opción 3";
+        break;
+        default: cout << "Usted ha ingresado una opción incorrecta";
+    }
+
+    
+    
+    
+    
+    
+    
+    
+
+
+    
+
+
+
 
 
 ## TRABAJAR NUESTROS PROGRAMAS EN LINEA:
