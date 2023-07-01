@@ -4,16 +4,22 @@ Curso de Programación 1 CBTIS225
 
 ### Bienvenido al curso inicial de programación en lenguaje C.
 
-<p style="color:#f92850; font-size: 16px; text-align:center;">¡ Por favor lee TODO este material con atención !</p>
+<p style="color:#f92850; font-size: 16px; text-align:center;">¡ Pequeño repaso de conceptos !</p>
 
-## PRIMEROS PASOS
+## Condicional switch
 
-Configuremos nuestro entorno de trabajo.
+### ¿Qué es Condicional Switch?
 
-Tenemos dos opciones, trabajar en linea o instalar un IDE(entorno de desarrollo integrado) en tu computadora.
+Los condicionales Switch, son una estructura de control condicional, que permite definir múltiples casos que puede llegar a cumplir una variable cualquiera, y qué acción tomar en cualquiera de estas situaciones, incluso es posible determinar qué acción llevar a cabo en caso de no cumplir ninguna de las condiciones dadas.
 
-Hay cosas puntuales que tal vez no se encuentren específicamente en este material, vas a tener que investigar un poquito por tu cuenta (Google es tu mejor amigo 🤗).
+### Ejemplos de Condicional Switch
 
+#### Menú de Opciones
+    En el menú de Windows buscamos la opción variables de entorno.
+    Seleccionamos la opción de Variables de entorno.
+    En las variables del sistema buscamos la variable Path
+    Seleccionamos la opción editar.
+    Presionamos en Nuevo y agregamos la ruta que copiamos anteriomente.
 
 
 ## TRABAJAR NUESTROS PROGRAMAS EN LINEA:
